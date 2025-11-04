@@ -1,19 +1,24 @@
-# Tóth Kornél
+# 🌐 Kornel Toth — Developer Portfolio
 
-Junior developer | Python, JS, C# | Always learning
+Welcome to my personal portfolio website!  
+I'm **Kornel Tóth**, a junior software developer from **Debrecen, Hungary**, passionate about creating clean, modern, and responsive web projects.
 
-Üdvözöllek! Fiatal fejlesztőként folyamatosan bővítem tudásomat Python, JavaScript és C# nyelveken. Célom, hogy minél több projektben szerepet vállaljak, és hozzájáruljak a közösség fejlődéséhez.
+## 🧰 Tech Stack
+- HTML, CSS, JavaScript  
+- Python, Java  
+- Git & GitHub
 
-## 🔨 Projektek
+## 🚀 Live Website
+👉 [poszasz.github.io](https://poszasz.github.io)
 
-### 1. [To_Do_App](https://github.com/poszasz/To_Do_App)
-- **Leírás:** Egy egyszerű feladatkezelő alkalmazás JavaScript-ben.
-- **Technológiák:** JavaScript, HTML, CSS.
+## 💡 Projects
+- 🎃 **Halloween Reaction Game** — a fun Python game testing your reflexes  
+- 📝 **To-Do App** — a simple web app to manage daily tasks  
 
-### 2. [cicak_linq](https://github.com/poszasz/cicak_linq)
-- **Leírás:** LINQ implementáció C# nyelven.
-- **Technológiák:** C#.
+## 📬 Contact
+- **Email:** [korneltoth789@gmail.com](mailto:korneltoth789@gmail.com)
+- **GitHub:** [github.com/poszasz](https://github.com/poszasz)
 
-### 3. [Harry_Potter_Fetch](https://github.com/poszasz/Harry_Potter_Fetch)
-- **Leírás:** Harry Potter karakterek adatainak lekérése API-ból.
-- **Technológiák:** JavaScript, API.
+---
+
+🖤 Designed and coded by Kornel Toth — 2025
