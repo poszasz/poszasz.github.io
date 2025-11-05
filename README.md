@@ -12,7 +12,7 @@ I'm **Kornel Tóth**, a junior software developer from **Debrecen, Hungary**, pa
 👉 [poszasz.github.io](https://poszasz.github.io)
 
 ## 💡 Projects
-- 🎃 **Halloween Reaction Game** — a fun Python game testing your reflexes  
+- 🎃 **Halloween Reaction Game** — a fun C# game testing your reflexes  
 - 📝 **To-Do App** — a simple web app to manage daily tasks  
 
 ## 📬 Contact
