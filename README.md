@@ -5,7 +5,7 @@ I'm **Kornel Tóth**, a junior software developer from **Debrecen, Hungary**, pa
 
 ## 🧰 Tech Stack
 - HTML, CSS, JavaScript  
-- Python, Java  
+- Python, C#
 - Git & GitHub
 
 ## 🚀 Live Website
