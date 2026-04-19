@@ -13,7 +13,8 @@ I'm **Kornel Tóth**, a junior software developer from **Debrecen, Hungary**, pa
 
 ## 💡 Projects
 - 🎃 **Halloween Reaction Game** — a fun C# game testing your reflexes  
-- 📝 **To-Do App** — a simple web app to manage daily tasks  
+- 📝 **To-Do App** — a simple web app to manage daily tasks
+- 🚗 **Car Cards** — a collectible card web app where you can open packs, collect cars, and trade with other players
 
 ## 📬 Contact
 - **Email:** [korneltoth789@gmail.com](mailto:korneltoth789@gmail.com)
